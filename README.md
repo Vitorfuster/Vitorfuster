@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**Vitorfuster/Vitorfuster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu me chamo João Vitor, sou estudante de programação FullStack, meus repositórios são projetos práticos com as novas tecnologias que estou aprendendo, futuramente ao dominar as tecnologias necessárias, irei abrir uma empresa de um projeto pessoal e pretendo continuar estudando nessa área que tanto amo :heart:.
 
-Here are some ideas to get you started:
+<strong>Tecnologias aprendidas</strong>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML :heavy_check_mark:
+- CSS :heavy_check_mark:
+- GIT :heavy_check_mark:
+- JAVASCRIPT :clock130:
+
+
+<strong>Converse comigo</strong>
+<p><a href="https://www.instagram.com/vitorfuster/"><img src="https://www.iconsdb.com/icons/preview/white/instagram-xxl.png" aling="left" width="22px" alt="Instagram"></img></a></p>
+
+[![Status João Vitor](https://github-readme-stats.vercel.app/api?username=vitorfuster)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorfuster)](https://github.com/anuraghazra/github-readme-stats)
+
