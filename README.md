@@ -7,7 +7,11 @@ Eu me chamo João Vitor, sou estudante de programação FullStack, meus reposit�
 - HTML :heavy_check_mark:
 - CSS :heavy_check_mark:
 - GIT :heavy_check_mark:
-- JAVASCRIPT :clock130:
+- JAVASCRIPT :heavy_check_mark:
+- NODE_JS :heavy_check_mark:
+- REACT :clock130:
+- N8N :clock130:
+- AGENTES_IA :clock130:
 
 
 <strong>Converse comigo</strong>
