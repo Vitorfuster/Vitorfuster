@@ -19,15 +19,17 @@ Meu objetivo é dominar as tecnologias necessárias para, futuramente, abrir min
 
 #### Programação  
 - 🧱 **HTML** – Estruturação de páginas ✔️
-- 🎨 **CSS** – Estilização de elementos ✔️  
-- 💻 **JavaScript (JS)** – Programação no navegador ✔️  
-- ⚙️ **Node.js** – Back-End com JavaScript ✔️  
-- ⚛️ **React.js** – Front-End reativo (nível intermediário – em andamento) ⏳  
+- 🎨 **CSS** – Estilização de elementos ✔️
+- 💻 **JavaScript (JS)** – Programação no navegador ✔️
+- ⚙️ **Node.js** – Back-End com JavaScript ✔️
+- ⚛️ **React.js** – Front-End reativo ✔️
+- 🐋 Docker - Ecossistemas (nível médio – em andamento) ⏳
+- 🏦 PostgresSQL - Banco de dados (nível médio – em andamento) ⏳
 
 #### Automação de Sistemas  
-- 🔁 **N8n** – Automação no-code (nível básico – em andamento) ⏳  
+- 🔁 **N8n** – Automação no-code (nível médio – em andamento) ⏳  
 - 🗃️ **Banco de dados vetoriais** – Documentação vetorial (nível básico – em andamento) ⏳  
-- 🤖 **Agentes de IA** – Fluxos com IA integrada (nível básico – em andamento) ⏳  
+- 🤖 **Agentes de IA** – Fluxos com IA integrada (nível médio – em andamento) ⏳  
 
 #### Idiomas  
 - 🇺🇸 **Inglês** – Leitura e escrita (nível básico – em andamento) ⏳  
